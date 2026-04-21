@@ -1,0 +1,7 @@
+{
+  "name": "Freight Flow Tracker",
+  "description": "A specialized transportation tracking dashboard for managing freight lanes from Garrucha and Almeria ports using Google Maps visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
